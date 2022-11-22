@@ -1,0 +1,30 @@
+
+body {
+    background-color: #DFF6FF;
+    color: white;
+}
+
+th {
+    text-align: center;
+}
+
+hr {
+    height:0px;
+    border-radius: 2px;
+    border: 2px solid hsl(0, 0%, 60%);
+    width: 80%;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    color: #256D85;
+    background-color: #DFF6FF;
+}
+
+.space-above {
+    margin-top: 20px;
+    padding-top: 20px;
+}

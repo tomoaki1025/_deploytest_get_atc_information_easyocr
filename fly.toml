@@ -1,0 +1,10 @@
+# fly.toml file generated for atc-info on 2022-11-21T18:26:17+09:00
+
+app = "atc-info"
+kill_signal = "SIGINT"
+kill_timeout = 30
+processes = []
+
+[build]
+  builder = "paketobuildpacks/builder:base"
+

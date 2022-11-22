@@ -1,0 +1,7 @@
+# flyctl launch added from .idea\.gitignore
+# デフォルトの無視対象ファイル
+.idea\shelf
+.idea\workspace.xml
+
+# flyctl launch added from venv\.gitignore
+# created by virtualenv automatically
